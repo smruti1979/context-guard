@@ -4,7 +4,8 @@
 
 Agents should never query company data directly. `context-guard` puts a **broker** between the agent and your data. The broker decides what the agent is *allowed* to see (control), then what is *worth* showing and what *fits* (context engineering). A separate **action gate** limits what the agent can *do*.
 
-![Context + Control reference architecture](./context-guard-architecture.png)
+<img width="2400" height="1400" alt="context-guard-architecture" src="https://github.com/user-attachments/assets/e4cb562e-37cf-4d6c-b4e8-004300d5504b" />
+
 
 > This is a teaching and prototyping reference, not a production security product. See [Limitations](#limitations) and [Taking this to production](#taking-this-to-production).
 
