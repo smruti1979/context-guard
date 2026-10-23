@@ -192,7 +192,7 @@ This project is deliberately small. Please read these before reusing it.
 
 ## Further reading
 
-- Blog post: *Context and Control: The Two Things Between Your AI Agents and a Very Bad Week* 
+- Blog post: *Context and Control: The Two Things Between Your AI Agents and a Very Bad Week* (https://smruti-rout.hashnode.dev/context-and-control-the-two-things-between-your-ai-agents-and-a-very-bad-week)
 - *Lost in the Middle: How Language Models Use Long Contexts* (Liu et al., 2023)
 - *Moffatt v. Air Canada* (BC Civil Resolution Tribunal, 2024), on liability for chatbot-invented policy
 
